@@ -1,0 +1,6 @@
+// BASIC OUTERVEIW 
+1. This is a small demo the working of the cas flow minimizer applicaton/website that i am gonna build.
+2. it uses basic OOPs using python and by using some modules like calender and the datetime .
+3. This will tell the user about it's expenses and also about the expediture it should do to save the money.
+
+
